@@ -1,0 +1,10 @@
+-- Hướng dẫn cài đặt và chạy source code --
+- Dowload source + database
+- Sử dụng Xampp hoặc các phần mềm tương tự để đưa database lên
+- Sửa file kết nối trong connect.php ở thư mục cnf/connect.php trong project nếu cần
+- Hãy chắc chắn rằng bạn đã cài composer
+
+link trang web: https://chinhhoang.xyz/DOAN_PHP/page/login.php
+
+*Lỗi: xuất file excel được trên localhost nhưng khi public lên mạng thì lỗi không xuất được file excel
+--Cảm ơn và chúc may mắn--
